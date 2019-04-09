@@ -1,7 +1,9 @@
 {
 	"news": [
 		{
-			"title": "Thomas for President"
+			"title": "Thomas for President",
+			"date": "44.55.2000",
+			"description": "Schauen wir mal wie das wird"
 		},
 		{
 			"title": "Die Mauer muss Weg!"
